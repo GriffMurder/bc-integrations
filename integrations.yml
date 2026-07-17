@@ -114,7 +114,7 @@ integrations:
     image: extras/doorbell.png
     category: 7
   - title: "Ziflow"
-    description: "Ziflow automates file processing tasks and processes that you’d prefer to give to a robot."
+    description: "Ziflow automates file processing tasks and processes that youâ€™d prefer to give to a robot."
     url: "https://www.ziflow.com/basecamp-integration"
     image: extras/ziflow.png
     category: 6
@@ -129,7 +129,7 @@ integrations:
     image: extras/timesheetr.png
     category: 2
   - title: "Tracked"
-    description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecamp’s UI."
+    description: "Adds labels to your to-dos and Kanban boards with customizable workflows, priorities and filters, all within Basecampâ€™s UI."
     url: "https://www.trackedhq.com/"
     image: extras/tracked.png
     category: 3
@@ -139,7 +139,7 @@ integrations:
     image: extras/harvest.png
     category: 2
   - title: "Expiration Reminder"
-    description: "Track expiration dates and renewals and have them create Basecamp todo’s automatically on expiration."
+    description: "Track expiration dates and renewals and have them create Basecamp todoâ€™s automatically on expiration."
     url: "https://www.expirationreminder.com/integrations/basecamp-3"
     image: extras/er.png
     category: 3
@@ -174,7 +174,7 @@ integrations:
     image: extras/userback.png
     category: 5
   - title: "Field Trip"
-    description: "Share your team’s Basecamp activity in Slack and Google Hangouts Chat."
+    description: "Share your teamâ€™s Basecamp activity in Slack and Google Hangouts Chat."
     url: "https://enjoyfieldtrip.com/?utm_source=basecamp&utm_medium=extras"
     image: extras/fieldtrip.png
     category: 1
@@ -184,12 +184,12 @@ integrations:
     image: extras/instabug.png
     category: 5
   - title: "ScrumDo"
-    description: "Visualize your team’s work as it flows through your process mirrored in ScrumDo. Discover and deliver successful outcomes the Lean, Agile, Scrum and Kanban way."
+    description: "Visualize your teamâ€™s work as it flows through your process mirrored in ScrumDo. Discover and deliver successful outcomes the Lean, Agile, Scrum and Kanban way."
     url: "https://app.scrumdo.com/basecamp/integration"
     image: extras/scrumdo.com.png
     category: 5
   - title: "Akita"
-    description: "Monitor the status of your Basecamp projects in Akita’s powerful Customer Success Manage Platform."
+    description: "Monitor the status of your Basecamp projects in Akitaâ€™s powerful Customer Success Manage Platform."
     url: "https://www.akitaapp.com?utm_source=basecamp"
     image: extras/akita.png
     category: 7
@@ -279,7 +279,7 @@ integrations:
     image: extras/jitbit.png
     category: 7
   - title: "Toggl"
-    description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox — the simplest time tracker to help you get things done."
+    description: "Track time effortlessly with Toggl Button integration for Chrome and Firefox â€” the simplest time tracker to help you get things done."
     url: "https://www.toggl.com/toggl-button/"
     image: extras/toggl.png
     category: 2
@@ -328,13 +328,13 @@ integrations:
     url: "https://www.datagrail.io"
     image: extras/datagrail.png
     category: 7
-  - title: "Team O’clock"
+  - title: "Team Oâ€™clock"
     description: "Run remote retrospectives with your teams, and create action items as Basecamp todos."
     url: "https://www.teamoclock.com/more-about/basecamp"
     image: extras/teamoclock.png
     category: 1
   - title: "Enchant"
-    description: "Send automatic notifications of your customer communications from Enchant’s omnichannel shared inboxes to your Campfire rooms."
+    description: "Send automatic notifications of your customer communications from Enchantâ€™s omnichannel shared inboxes to your Campfire rooms."
     url: "https://www.enchant.com/help-desk-integration-campfire"
     image: extras/enchant.png
     category: 7
@@ -349,7 +349,7 @@ integrations:
     image: extras/numerics.png
     category: 3
   - title: "TeamRetro"
-    description: "Easily run insightful retrospectives and team health checks with your agile teams, and publish your action items as Basecamp tasks in your to-do’s."
+    description: "Easily run insightful retrospectives and team health checks with your agile teams, and publish your action items as Basecamp tasks in your to-doâ€™s."
     url: "https://www.teamretro.com/integrations/basecamp-integration"
     image: extras/teamretro.png
     category: 5
@@ -389,7 +389,7 @@ integrations:
     image: extras/apideck.png
     category: 9
   - title: "StartADAM"
-    description: "Integrate team chat (Slack, MS Teams) with customer’s tools (WhatsApp, SMS), and auto-send chat transcripts to Basecamp Projects, streamlining your workflow."
+    description: "Integrate team chat (Slack, MS Teams) with customerâ€™s tools (WhatsApp, SMS), and auto-send chat transcripts to Basecamp Projects, streamlining your workflow."
     url: "https://startadam.com/startadam-integration-to-basecamp-setup-guide"
     image: extras/startadam.png
     category: 7
@@ -429,7 +429,7 @@ integrations:
     image: extras/anywebhook.png
     category: 5
   - title: "Grow"
-    description: "Visualize Basecamp project data, track performance, and automate reporting—all in one intuitive dashboard."
+    description: "Visualize Basecamp project data, track performance, and automate reportingâ€”all in one intuitive dashboard."
     url: "https://www.grow.com/integrations/basecamp-3-4-project-management"
     image: extras/grow.png
     category: 3
@@ -484,7 +484,8 @@ integrations:
     image: extras/feedhammer.png
     category: 3
   - title: "TaskBullet"
-    description: "Assign Basecamp to-dos to TaskBullet VAs. Free 10-hour trial (no card). Native Assign�trained VAs, hours tracking, and dashboard."
+    description: "Assign Basecamp to-dos to TaskBullet VAs. Free 10-hour trial (no card). Native Assign to trained VAs with hours tracking and dashboard."
     url: "https://taskbullet.com/integrations/basecamp?utm_source=basecamp&utm_medium=marketplace&utm_campaign=basecamp_marketplace"
     image: extras/taskbullet.png
     category: 1
+
